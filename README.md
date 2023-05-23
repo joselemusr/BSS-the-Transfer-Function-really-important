@@ -3,10 +3,10 @@ Work repository "Binarization of metaheuristics: Is the Transfer Function really
 
 ## Links
 
-[PostgresSQL database with results](***)
+[PostgresSQL database with results](https://drive.google.com/file/d/1bIJhyIyFa-4_lvbdrETSaq9nIaAAAQEz/view?usp=sharing)
 
 
-[Graphics](***)
+[Graphics](https://drive.google.com/open?id=17mBhf3Ih4RRN3UBTavHzqnTX7ngd8Hlw&usp=drive_fs)
 
 ## Instructions
 
